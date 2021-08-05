@@ -1,0 +1,3 @@
+rootProject.name = "AMapDemo"
+include ':app'
+include ':nightmodel'
